@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavindu Madhrannga</h1>
+<h1 align="center">Hi 👋, I'm Kavindu Wijerathna</h1>
 <h3 align="center">student at IJSE (INSTUTITUE OF SOFTWARE ENGEINEERING). Course ID GDSE 67</h3>
 
 <h3 align="left">Connect with me:</h3>
